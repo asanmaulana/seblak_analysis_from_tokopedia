@@ -1,4 +1,0 @@
-1. This is the url to the dataset. 
-https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction/data
-2. This is the url to the model deployment
-https://huggingface.co/spaces/asanmaulana/churn_model_banking
