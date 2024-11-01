@@ -33,22 +33,22 @@ Kami berencana memasuki pasar e-commerce Indonesia dengan fokus menjual produk s
 
 METODE STAR
 
-### SPECIFIC 
+#### SPECIFIC 
 
 Mencetak gross sales memadai untuk jualan kita yang baru mulai untuk memastikan usaha kita tetap berjalan ke depannya
 
-### MEASURABLE 
+#### MEASURABLE 
 Mencetak gross sales sebesar 10 juta dengan jualan seblak online sistem dropshipping. 
 
-### ACHIEVABLE
+#### ACHIEVABLE
 Dengan mempertimbangkan posisi kita sebagai penjual online dan produk kita bisa dikirim online untuk seluruh indonesia maka saya yakin goals kita mencetak gross sales 10 juta bisa dicapai
 
-### RELEVANT
+#### RELEVANT
 Adanya gross sales 10 juta sangat relevan untuk bisnis kita yang lagi dibangun karena kita harus mencari pelanggan dulu di awal namun juga kita harus membuktikan bahwa jualan kita ini menghasilkan sales untuk keberlangsungan usaha.
 
-### TIME-BOUND 
+#### TIME-BOUND 
 Target ini akan direalisasikan dalam waktu 2 bulan dari bulan ini. 
 
-### Problem Statement 
-#### Mencetak Gross Sales sebesar Rp 10 juta dalam waktu 2 bulan untuk memastikan keberlangsungan usaha rintisan (startup) seblak online kita.
+#### Problem Statement 
+##### Mencetak Gross Sales sebesar Rp 10 juta dalam waktu 2 bulan untuk memastikan keberlangsungan usaha rintisan (startup) seblak online kita.
 
