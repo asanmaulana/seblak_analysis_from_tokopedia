@@ -52,3 +52,46 @@ Target ini akan direalisasikan dalam waktu 2 bulan dari bulan ini.
 #### Problem Statement 
 ##### Mencetak Gross Sales sebesar Rp 10 juta dalam waktu 2 bulan untuk memastikan keberlangsungan usaha rintisan (startup) seblak online kita.
 
+## Metode yang Digunakan 💻
+
+Statistik Inferensial 
+Statistik Deskriptif 
+Visualisasi Data 
+
+
+## Kesimpulan Analisa ✅
+
+1. Median harga seblak di angka 15000 rupiah sedangkan rata-rata harga jauh di angka 30000. Jadi bisa berasumsi tipikal harga produk seblak itu berada di angka 15000 an. 
+2. Median produk terjual di angka 80, namun setelah kita asumsikan data ini normal dan kita melakukan uji test kita bisa mendapatkan hasil bahwa kita yakin dengan derajat signifikan 95% bahwa kita bisa menjual seblak 400 unit per bulan karena rentang produk terjual masih di angka 350 - 540. 
+3. Rating rata2 4,4 dan median 4,9. Untuk memastikan bahwa kita mencapai target 10 juta, maka ada target untuk kita untuk mendapat bintang 5 atau mempertahankan 4,9. karena kebanyakan data penjual berkumpul di titik 4,9. 
+4. Harga di jabodetabek dan luar jabodetabek berbeda karena kita tinggal di jabodetabek sebaiknya kita fokus untuk menggarap pasar lokal dulu dan mengambil supplier kita dari jabodetabek saja untuk memastikan bahwa layanan kita cepat sampai. 
+5. Produk terjual tidak terpengaruh harga sama sekali. Bisa kita mengambil segmen manapun tanpa peduli potensi pasar, karena potensi pasar sama-sama memungkinkan. 
+
+## Rekomendasi 📝
+
+Pengambilan segmen pasar yang lebih premium dikarenakan korelasi antara produk terjual dan harga tidak berkorelasi. Sangat possible untuk mendapatkan 10 juta perbulan gross omset dengan asumsi penjualan kita 400 unit. Lebih baik untuk membuka base penjualan di area jabodetabek. Penggunaan Iklan untuk optimasi dari produk kita dan memberikan eksposure kepada customer mengenai produk-produk yang kita jual di tokopedia. 
+
+## File yang Tersedia 📁
+
+jupyter notebook file berisi mengenai proses analisis dari awal sampai akhir ["Price_Scraping_Seblak.ipynb"]. 
+
+Dataframe bersih ["dataframe_cleaned.csv"] dan dataframe raw ["hasil.csv"] 
+
+apps scrapper file ekstensi .py [scrap.py] 
+
+## Cara Menggunakan Project Ini 🛠️
+
+1. Clone Repositori ini ke dalam lokal anda. 
+
+2. Jalankan file Price_Scrapping_Seblak.ipynb dan ikuti alur analisis data. 
+
+3. Jika anda menginginkan data yang lebih baru bisa untuk dipertimbangkan menjalankan file scrapper dan mendapatkan dataframe baru 
+
+
+## Libraries 🤖
+
+Pandas Scipy Seaborn Matplotlib
+
+## Author 🧑‍🏫
+
+🌐[Author](https://www.linkedin.com/in/asan133/)
